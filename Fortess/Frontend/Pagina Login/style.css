@@ -28,7 +28,7 @@ a.links{
 /* formatando o cabeçalho dos formulários */
 h1{
   font-size: 48px;
-  color: #066a75;
+  color: #0b0c0c;
   padding: 10px 0;
   font-family: Arial,sans-serif;
   font-weight: bold;
@@ -52,7 +52,7 @@ p:first-child{
   margin: 0px;
 }
 label{
-  color: #405c60;
+  color: #0b0c0c;
   position: relative;
 }
 
@@ -91,7 +91,7 @@ input:not([type="checkbox"]){
 input[type="submit"]{
   width: 100%!important;
   cursor: pointer;  
-  background: #3d9db3;
+  background: #0b0c0c;
   padding: 8px 5px;
   color: #fff;
   font-size: 20px;  
